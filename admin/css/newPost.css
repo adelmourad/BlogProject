@@ -1,0 +1,23 @@
+.mycontainer
+{
+    width:90%;
+    border: 1px solid #CCC;
+    margin: auto;
+    padding: 20px;
+}
+
+label,input,textarea
+{
+    display: block;
+    padding: 5px;
+    margin: 5px;
+}
+
+input[type=text],textarea
+{
+    width: 90%;
+}
+textarea
+{
+    height: 200px;
+}

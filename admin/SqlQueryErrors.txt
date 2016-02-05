@@ -1,0 +1,31 @@
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DES limit 1000' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DES limit 1000' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DES limit 1000' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DEC  limit 1000' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DEC limit 1000' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DEC' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DES' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DES' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESdC' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESdC' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESdC' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESdC' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESdC' at line 1
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'titlfe' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'titlfe' in 'field list'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'titdle' in 'field list'
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'author' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'author' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'author' cannot be null
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`blog`.`posts`, CONSTRAINT `FK_posts_author` FOREIGN KEY (`author`) REFERENCES `author` (`id`))
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog.posuts' doesn't exist
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog.posfffts' doesn't exist

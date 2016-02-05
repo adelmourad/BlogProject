@@ -1,0 +1,4 @@
+AuthName "Admins Only Ya Kbeer ! Enter admin admin :D"
+AuthType Basic
+AuthUserFile /Users/Adel/.htpasswd
+Require valid-user

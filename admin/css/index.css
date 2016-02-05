@@ -1,0 +1,31 @@
+table,tr,td
+{
+    border: 1px solid #DDD;
+}
+thead
+{
+    font-weight:bold;
+}
+form,table
+{
+    margin: auto;
+    text-align: center;
+}
+
+img
+{
+    margin: 3px;
+    width: 20px;
+    height: 20px;
+}
+
+td
+{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 400px;
+}
+input
+{
+    margin: 10px;
+}

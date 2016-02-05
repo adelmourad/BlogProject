@@ -1,0 +1,27 @@
+table,tr,td
+{
+    border:1px solid #DDD;
+}
+table
+{
+    margin: 50px auto;
+}
+table thead
+{
+    font-weight: bold;
+}
+* {text-align: center}
+
+.posts_container
+{
+    word-wrap: break-word;
+    width:70%;
+    border: 1px solid #DDDDDD;
+     margin: auto;
+}
+td
+{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 400px;
+}

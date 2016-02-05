@@ -1,0 +1,44 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    background:#333333;
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+
+}
+.footer
+{
+    background: #333333;
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+.navbar
+{
+    background: #DDD;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.navbar ul
+{
+    padding: 10px;
+    margin: 0px;
+}
+.navbar ul li
+{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+.navbar ul li a
+{
+    text-decoration: none;
+}

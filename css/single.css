@@ -1,0 +1,20 @@
+*{text-align: center}
+
+.mypost
+{
+    border: 1px solid lightgreen;
+    width: 70%;
+    margin: auto;
+}
+.mypost h3
+{
+    color: coral;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    margin-top: 0;
+}
+a.back
+{
+    padding-top: 30px;
+    display: block;
+}
